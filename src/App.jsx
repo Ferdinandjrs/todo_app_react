@@ -48,7 +48,7 @@ const App = () => {
       <main className="max-w-[736px] mx-auto mt-20 px-4">
         <div className="flex justify-between mb-6 text-sm font-bold">
           <div className="flex items-center gap-2">
-            <p className="text-[#4EA8DE]">Tugas dibuat</p>
+            <p className="text-[#4EA8DE]">Belum Selesai</p>
             <span className="bg-[#333333] px-2.5 py-0.5 rounded-full text-[#D9D9D9] text-xs font-bold">
               {todos.length}
             </span>
